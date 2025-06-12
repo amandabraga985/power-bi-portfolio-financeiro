@@ -37,4 +37,8 @@ Além disso, o dashboard permite visualizar **quais segmentos apresentam maior o
 ## 📷 Imagens do Projeto
 ![Financeiro](https://github.com/user-attachments/assets/19561fcb-a024-44a4-aefc-5aaa5ea6683b)
 
+## ⚠️ Observação
+
+Os dados utilizados neste projeto são fictícios e foram disponibilizados exclusivamente para fins educacionais.
+
 
